@@ -1,0 +1,2 @@
+# PowerBI
+Energy Generation Analysis
