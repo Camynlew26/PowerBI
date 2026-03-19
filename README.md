@@ -37,4 +37,3 @@ I was given a task to analyze the power generation data in different states in t
 - Texas dominates energy production
 - Renewable energy adoption varies by region
 - Shift in energy over time 
-- 
