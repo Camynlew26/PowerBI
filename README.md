@@ -1,3 +1,4 @@
 # PowerBI
 Energy Generation Analysis
 I was given a task to analyze the power generation data in different states in the last three decades and find the significant patterns to ensure that companies are following environmental rules and regulations. To support environmental agencies in their various responsibilities, which include monitoring regulatory compliance, assessing environmental impacts, developing policies, and reaching out to the public, I am tasked with producing a series of charts. These charts will offer valuable insights into the data, aiding decision making processes and enhancing the agency's effectiveness in safeguarding the environment. 
+![Dashboard Screenshot](dashboard.png)
